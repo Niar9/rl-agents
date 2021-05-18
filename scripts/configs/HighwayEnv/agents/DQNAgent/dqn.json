@@ -5,7 +5,7 @@
         "layers": [256, 256]
     },
     "double": false,
-    "gamma": 1.5,
+    "gamma": 0.5,
     "n_steps": 1,
     "batch_size": 32,
     "memory_capacity": 15000,
