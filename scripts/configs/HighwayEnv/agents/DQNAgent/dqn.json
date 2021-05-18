@@ -14,7 +14,7 @@
         "method": "EpsilonGreedy",
         "tau": 3000,
         "temperature": 1,
-        "final_temperature": 0.2
+        "final_temperature": 0.02
     },
     "loss_function": "l2"
 }
